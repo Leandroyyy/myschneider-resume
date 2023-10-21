@@ -1,5 +1,5 @@
-import MySchneiderCellphone from "../../../assets/my-schneider-cellphone.svg";
-import MySchneiderLogo from "../../../assets/my-schneider-logo.svg";
+import MySchneiderCellphone from "../../../../assets/my-schneider-cellphone.svg";
+import MySchneiderLogo from "../../../../assets/my-schneider-logo.svg";
 
 export function Introduction() {
   const benefitsList = [

@@ -14,7 +14,7 @@ export function CardMember({
   memberPhoto,
 }: CardMemberProps) {
   return (
-    <div className="flex flex-col bg-gray-50 w-52 px-10 py-5 rounded-lg items-center gap-3">
+    <div className="flex flex-col bg-gray-50 w-52 px-10 py-5 rounded-lg shadow-xl items-center gap-3">
       <img
         src={memberPhoto}
         alt="foto do membro da equipe"
