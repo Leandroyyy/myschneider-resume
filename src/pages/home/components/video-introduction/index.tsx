@@ -11,6 +11,14 @@ export function VideoIntroduction() {
         title="YouTube video player"
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
       ></iframe>
+
+      <a
+        href=""
+        target="_blank"
+        className="text-xl font-bold text-schneiderGreen underline hover:text-lime-800 duration-300"
+      >
+        Experimente nossa solução em sua versão demo clicando aqui!
+      </a>
     </div>
   );
 }

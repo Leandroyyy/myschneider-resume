@@ -25,14 +25,14 @@ export function CardMember({
         <a
           href={`https://www.linkedin.com/in/${linkedin}`}
           target="_blank"
-          className="text-2xl hover:text-schneiderGreen"
+          className="text-2xl hover:text-schneiderGreen duration-500"
         >
           <AiFillLinkedin />
         </a>
         <a
           href={`https://github.com/${github}`}
           target="_blank"
-          className="text-2xl hover:text-schneiderGreen"
+          className="text-2xl hover:text-schneiderGreen duration-500"
         >
           <AiFillGithub />
         </a>
