@@ -15,7 +15,7 @@ export function VideoIntroduction() {
       <a
         href=""
         target="_blank"
-        className="text-xl font-bold text-schneiderGreen underline hover:text-lime-800 duration-300"
+        className="text-xl text-center font-bold text-schneiderGreen underline hover:text-lime-800 duration-300"
       >
         Experimente nossa solução em sua versão demo clicando aqui!
       </a>
