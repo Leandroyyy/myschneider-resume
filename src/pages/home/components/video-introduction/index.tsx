@@ -7,7 +7,7 @@ export function VideoIntroduction() {
 
       <iframe
         className="w-[70vw] h-[30vh] md:h-[70vh]"
-        src="https://www.youtube.com/embed/T9B9ysMakFo?si=IiuVDZrz5bc7KvWW"
+        src="https://www.youtube.com/embed/pmfYr5BKFtw?si=oO8ZN1gm2iMY8c9p"
         title="YouTube video player"
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
       ></iframe>
