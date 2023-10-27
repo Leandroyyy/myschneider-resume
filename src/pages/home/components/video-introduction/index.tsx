@@ -13,7 +13,7 @@ export function VideoIntroduction() {
       ></iframe>
 
       <a
-        href=""
+        href="https://myschneider-website.vercel.app/"
         target="_blank"
         className="text-xl text-center font-bold text-schneiderGreen underline hover:text-lime-800 duration-300"
       >

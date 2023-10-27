@@ -27,7 +27,7 @@ export function Members() {
     {
       name: "Gabriel Tavares",
       linkedin: "gabriel-tavares-7749b1266",
-      github: "",
+      github: "GabrielMikas",
       photo:
         "https://media.licdn.com/dms/image/D4D03AQHCAJ9OuokbGA/profile-displayphoto-shrink_400_400/0/1686755689297?e=1703116800&v=beta&t=ahv7lu9M01m3d7yzXUnehScuQyWNCmy5n5wX-1goq6g",
     },
